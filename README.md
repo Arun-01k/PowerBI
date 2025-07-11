@@ -58,4 +58,4 @@ To create a clean, easy-to-navigate dashboard that supports:
 - **Customer Analysis**: Segment users to tailor promotions and improve retention  
 
 
-(https://github.com/Arun-01k/PowerBI/blob/main/Snapshot%20of%20the%20Dashboard.png)
+![Alt Text](https://github.com/Arun-01k/PowerBI/blob/main/Snapshot%20of%20the%20Dashboard.png)
