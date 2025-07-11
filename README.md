@@ -66,4 +66,4 @@ Geographic Focus: Compare performance across locations to optimize marketing
 
 Customer Analysis: Segment users to tailor promotions and improve retention
 
-Let me know if you'd like:
+https://github.com/Arun-01k/PowerBI/blob/main/Snapshot%20of%20the%20Dashboard.png
